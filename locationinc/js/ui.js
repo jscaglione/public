@@ -1,11 +1,11 @@
 
 var _currentState;
 
-(function() {
+function getStates() {
 	$.getJSON('http://locationinc-mapping-demo.herokuapp.com/states.json?callback=?', function(data){
 		states(data);
 	});
-}());
+}
 
 function states(data) {
 	var _states;
@@ -16,6 +16,7 @@ function states(data) {
 
 function fillStates(states) {
 	var stateCode;
+	$("#states").empty();
 	for (var i = 0; i < states.length; i++) {
 		$("#states").append('<option value="' + states[i].code + '">' + states[i].name + '</option>');
 	};
