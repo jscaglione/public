@@ -1,0 +1,115 @@
+{
+    "basics": {
+      "name": "James Scaglione",
+      "label": "Front End Web Developer",
+      "image": "",
+      "email": "jim.scaglione@gmail.com",
+      "phone": "",
+      "url": "",
+      "summary": "An experienced, resourceful IT professional with a strong technical skill-set seeking a new opportunity to further my career goals",
+      "location": {
+        "address": "",
+        "postalCode": "MA 01543",
+        "city": "Rutland",
+        "countryCode": "US",
+        "region": "Massachusetts"
+      },
+      "profiles": [{
+        "network": "LinkedIn",
+        "username": "jamesscaglione",
+        "url": "https://www.linkedin.com/in/jamesscaglione"
+      }]
+    },
+    "work": [{
+      "name": "Rapid 7",
+      "position": "Lead Front End Web Engineer",
+      "url": "https://www.rapid7.com",
+      "startDate": "March 2023",
+      "endDate": "Present",
+      "summary": "Description…",
+      "highlights": [
+        "Started the cTransform website designs into front-end code with HTML, CSS, C#, and JavaScript",
+        "Maintain existing codebase consisting of modern JS libraries like React and Vue",
+        "Work with back-end developers to integrate UI components with CMS and APIs",
+        "Lead efforts to comply with ADA Accessibility standards on website",
+        "Mentor junior to mid-level developers to help build their CSS, JavaScript and HTML skills while completing projects"
+
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "description": "Description...",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "url": "https://project.com/"
+    }]
+  }
